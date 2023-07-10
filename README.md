@@ -1,7 +1,8 @@
 
 
 # 💫 About Me:
-👋 Hello there! <br><br>Welcome to my amazing world! 🌟<br><br>Let me tell you a bit about myself:<br><br>💡 I'm currently working on **embarking on a mind-boggling project** that will revolutionize the way we interact with technology. Picture this: Using the OpenAI API, I'm creating an AI tool that will make everyday tasks a breeze! 🚀💡<br><br>🤝 I'm actively seeking collaboration opportunities to join forces with brilliant minds and create something extraordinary. If you have an exciting project in mind or are looking for a dedicated and creative collaborator, count me in! Let's turn ideas into reality and make a lasting impact. 💪💡<br><br>🌱 Continuous improvement and growth are my driving forces. I'm always hungry for knowledge and constantly seek guidance from industry experts. Whether it's learning new technologies, exploring innovative concepts, or embracing emerging trends, I'm always up for the challenge. 📚📈<br><br>🚀 Did you know that I'm currently diving deep into the world of Angular? I'm thrilled to explore its powerful capabilities and leverage them to craft stunning, responsive, and user-friendly web applications. Get ready to witness the magic of Angular in action! ✨🌐<br><br>⚡  When I'm not coding, I love to explore various apps and games, and immerse myself in immersive gameplay experiences. Music fills my soul as I sing my heart out, while painting, sketching, and crafting ignite my creative passion. Life is a canvas, and I love bringing my imagination to life in the most extraordinary ways! 🎨🎵✨<br><br>Let's connect and embark on an exciting journey together! Feel free to reach out, and together we'll create something amazing that will leave a lasting impact! 🚀✨
+Hi there 👋🏽!
+ <br><br>Welcome to my amazing world! 🌟<br><br>Let me tell you a bit about myself:<br><br>💡 I'm currently working on **embarking on a mind-boggling project** that will revolutionize the way we interact with technology. Picture this: Using the OpenAI API, I'm creating an AI tool that will make everyday tasks a breeze! 🚀💡<br><br>🤝 I'm actively seeking collaboration opportunities to join forces with brilliant minds and create something extraordinary. If you have an exciting project in mind or are looking for a dedicated and creative collaborator, count me in! Let's turn ideas into reality and make a lasting impact. 💪💡<br><br>🌱 Continuous improvement and growth are my driving forces. I'm always hungry for knowledge and constantly seek guidance from industry experts. Whether it's learning new technologies, exploring innovative concepts, or embracing emerging trends, I'm always up for the challenge. 📚📈<br><br>🚀 Did you know that I'm currently diving deep into the world of Angular? I'm thrilled to explore its powerful capabilities and leverage them to craft stunning, responsive, and user-friendly web applications. Get ready to witness the magic of Angular in action! ✨🌐<br><br>⚡  When I'm not coding, I love to explore various apps and games, and immerse myself in immersive gameplay experiences. Music fills my soul as I sing my heart out, while painting, sketching, and crafting ignite my creative passion. Life is a canvas, and I love bringing my imagination to life in the most extraordinary ways! 🎨🎵✨<br><br>Let's connect and embark on an exciting journey together! Feel free to reach out, and together we'll create something amazing that will leave a lasting impact! 🚀✨
 
 
 ## 🌐 Socials:
@@ -14,21 +15,15 @@
 
 # 💻 IDEs/Editors:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon) ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ruchi016&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ruchi016&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchi016&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://github.com/Ruchi016/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ruchi016&theme=dark" />
+</a>
+<a href="https://github.com/Ruchi016/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruchi016&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ruchi016&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ruchi016&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=Ruchi016&icon=5&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
