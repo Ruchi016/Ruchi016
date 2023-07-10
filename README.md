@@ -93,11 +93,15 @@
    
 </p>
 </details>
-
-
-
+ 
 <details>
   <summary><h4>📊 My GitHub Stats</h4></summary>
+   <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ruchi016's streak" src="https://streak-stats.demolab.com/?user=Ruchi016&theme=radical&hide_border=true"/>
+    </a> 
+  </p>
+  
 <a href="https://github.com/Ruchi016/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ruchi016&theme=radical&show_icons=true"/>
 </a>
