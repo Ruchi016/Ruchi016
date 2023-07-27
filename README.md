@@ -1,7 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EE5F7&width=435&lines=Hi%2CWelcome+to+my+github+Profile%F0%9F%91%8B)](https://git.io/typing-svg)
 
-
-<h2>💫 About Me:</h2>
-<p>Hi there 👋🏽! <br>Welcome to my amazing world! 🌟 I'm deeply passionate about leveraging AI, deep learning, and cutting-edge technologies to create remarkable solutions that simplify everyday tasks and solve real-world problems. Let's collaborate and dive into a world of possibilities, revolutionizing technology and making a lasting impact! 🚀💡</p>
+🌟 I'm deeply passionate about leveraging AI, deep learning, and cutting-edge technologies to create remarkable solutions that simplify everyday tasks and solve real-world problems. Let's collaborate and dive into a world of possibilities, revolutionizing technology and making a lasting impact! 🚀💡</p>
 
 <h2>🌐 Socials:<h2>
   <p>
