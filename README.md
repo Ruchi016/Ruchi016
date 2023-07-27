@@ -1,6 +1,7 @@
-
+  <p align="center">
+    <a href="https://github.com/Ruchi016"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=100&pause=1000&color=E616F7&center=true&repeat=false&width=435&lines=Ruchika+Das" alt="Typing SVG" /></a></p>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16EAF7&center=true&vCenter=true&width=435&lines=Hi%2C+Welcome+to+My+Github+Profile%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" /></a>
+<a href="https://github.com/Ruchi016"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16EAF7&center=true&vCenter=true&width=435&lines=Software+Engineer+👩‍💻;Machine+Learning+Enthusiast+%F0%9F%A4%96;" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -11,7 +12,7 @@
 - ⚡ Fun fact **I love painting and building stuff!!**
 ---
 
-<h2 align="center">Connect With Me🤝<h2>
+<h3 align="center">Connect With Me🤝<h3>
   <p align="center">
 <a align="center" href="https://linkedin.com/in/ruchika-das16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruchika-das16" height="30" width="40" /></a>
 </p>
@@ -105,16 +106,16 @@
  
 <details>
   <summary><h4>📊 My GitHub Stats</h4></summary>
-   <p>
+   <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ruchi016's streak" src="https://streak-stats.demolab.com/?user=Ruchi016&theme=radical&hide_border=true"/>
+      <img align ="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ruchi016's streak" src="https://streak-stats.demolab.com/?user=Ruchi016&theme=radical&hide_border=false"/>
     </a> 
-  </p>
-  
+   </p>
+<p align="center">
 <a href="https://github.com/Ruchi016/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ruchi016&theme=radical&show_icons=true"/>
 </a>
 <a href="https://github.com/Ruchi016/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruchi016&theme=radical&layout=compact&langs_count=8&card_width=320" />
-</a>
+</a> </p>
 </details>
