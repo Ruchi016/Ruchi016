@@ -7,9 +7,7 @@
 
 ---
 - 🌱 I’m currently learning **Angular**
-- 
 - 📫 How to reach me **ruchika1974@outlook.com**
-- 
 - ⚡ Fun fact **I love painting and building stuff!!**
 ---
 
