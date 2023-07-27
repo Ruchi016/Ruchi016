@@ -1,14 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EE5F7&width=435&lines=Hi%2CWelcome+to+my+github+Profile%F0%9F%91%8B)](https://git.io/typing-svg)
 
-🌟 I'm deeply passionate about leveraging AI, deep learning, and cutting-edge technologies to create remarkable solutions that simplify everyday tasks and solve real-world problems. Let's collaborate and dive into a world of possibilities, revolutionizing technology and making a lasting impact! 🚀💡</p>
-
-<h2>🌐 Socials:<h2>
-  <p>
-  <a href="https://www.linkedin.com/in/ruchika-das16"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
- <a href="https://github.com/Ruchi016"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
-<a href="mailto:ruchika1974@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16EAF7&center=true&vCenter=true&width=435&lines=Hi%2C+Welcome+to+My+Github+Profile%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" /></a>
 </p>
-  
+
+---
+- 🌱 I’m currently learning **Angular**
+
+- 📫 How to reach me **ruchika1974@outlook.com**
+
+- ⚡ Fun fact **I love painting and building stuff!!**
+---
+
+<h2 align="center">Connect With Me🤝<h2>
+  <p align="center">
+<a align="center" href="https://linkedin.com/in/ruchika-das16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruchika-das16" height="30" width="40" /></a>
+</p>
+
+  ---
 <details> 
    <summary><h4>🛠️ My Favorite Tools</h4></summary>
   
@@ -92,6 +100,8 @@
    
 </p>
 </details>
+
+---
  
 <details>
   <summary><h4>📊 My GitHub Stats</h4></summary>
