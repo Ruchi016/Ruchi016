@@ -1,14 +1,15 @@
   <p align="center">
     <a href="https://github.com/Ruchi016"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=100&pause=1000&color=E616F7&center=true&repeat=false&width=435&lines=Ruchika+Das" alt="Typing SVG" /></a></p>
+    
 <p align="center">
 <a href="https://github.com/Ruchi016"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16EAF7&center=true&vCenter=true&width=435&lines=Software+Engineer+👩‍💻;Machine+Learning+Enthusiast+%F0%9F%A4%96;" alt="Typing SVG" /></a>
 </p>
 
 ---
 - 🌱 I’m currently learning **Angular**
-
+- 
 - 📫 How to reach me **ruchika1974@outlook.com**
-
+- 
 - ⚡ Fun fact **I love painting and building stuff!!**
 ---
 
