@@ -14,6 +14,7 @@
 <h3 align="center">Connect With Me🤝<h3>
   <p align="center">
 <a align="center" href="https://linkedin.com/in/ruchika-das16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruchika-das16" height="30" width="40" /></a>
+
 </p>
 
   ---
