@@ -5,11 +5,16 @@
 <a href="https://github.com/Ruchi016"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16EAF7&center=true&vCenter=true&width=435&lines=Software+Engineer+👩‍💻;Machine+Learning+Enthusiast+%F0%9F%A4%96;" alt="Typing SVG" /></a>
 </p>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/codinasion/codinasion/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+</div>
+
 - 🌱 I’m currently learning **Angular**
 - 📫 How to reach me **ruchika1974@outlook.com**
 - ⚡ Fun fact **I love painting and building stuff!!**
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/codinasion/codinasion/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+</div>
 
 <h3 align="center">Connect With Me🤝<h3>
   <p align="center">
@@ -17,7 +22,10 @@
 
 </p>
 
-  ---
+ <div align="center">
+  <img src="https://raw.githubusercontent.com/codinasion/codinasion/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+</div>
+
 <details> 
    <summary><h4>🛠️ My Favorite Tools</h4></summary>
   
@@ -102,7 +110,9 @@
 </p>
 </details>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/codinasion/codinasion/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+</div>
  
 <details>
   <summary><h4>📊 My GitHub Stats</h4></summary>
