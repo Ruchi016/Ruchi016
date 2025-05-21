@@ -9,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/codinasion/codinasion/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
 </div>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React Js**
 - 📫 How to reach me **ruchika1974@outlook.com**
 - ⚡ Fun fact **I love painting and building stuff!!**
 <div align="center">
